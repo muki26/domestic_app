@@ -1,0 +1,132 @@
+.head h2{
+    text-align: center;
+    border: 2px solid crimson;
+    color: darkblue;
+    padding: 4px 0px;
+    
+    font-style: oblique;
+}
+.select-circle{
+text-align: center;
+padding: 10px 30px;
+font-size: 20px;
+color: darkblue;
+font-family: initial;
+
+}
+.from {
+    text-align: center;
+padding: 10px 30px;
+font-size: 20px;
+color: darkblue;
+font-family: initial;
+}
+.select-circle option{
+    color: crimson;
+    cursor: pointer;
+	padding: 10px;
+	margin: 3px;
+    font-size: 15px;
+    margin-top: 50px;
+}
+#circle{
+    margin-left: 20px;
+    font-size: 15px;
+    color: crimson;
+    padding: 7px 5px;
+}
+.from {
+    text-align: center;
+padding: 10px 30px;
+font-size: 20px;
+color: darkblue;
+font-family: initial;
+}
+.from option{
+    color: crimson;
+    cursor: pointer;
+	padding: 10px;
+	margin: 3px;
+    font-size: 15px;
+    margin-top: 50px;
+
+}
+#from{
+    margin-left: 20px;
+    font-size: 15px;
+    color: crimson;
+    padding: 5px 50px;
+    margin-left: 80px;
+}
+.to {
+    text-align: center;
+padding: 10px 30px;
+font-size: 20px;
+color: darkblue;
+font-family: initial;
+}
+.to option{
+    color: crimson;
+    cursor: pointer;
+	padding: 10px;
+	margin: 3px;
+    font-size: 15px;
+    margin-top: 50px;
+
+}
+#to{
+    margin-left: 20px;
+    font-size: 15px;
+    color: crimson;
+    padding: 5px 50px;
+    margin-left: 95px;
+}
+.proceed a{
+    
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+        padding: 5px 10px;
+        margin-top: 40px;
+        border-radius: 4px;
+        border: 2px solid  darkblue;
+        background-color: darkblue;
+        color: white;
+        text-decoration: none;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 18px;
+        width: max-content;
+  
+}
+.proceed{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.proceed a:hover{
+    background: crimson;
+    color: white;
+    border: crimson;
+}
+.follow h2{
+    text-align: center;
+    margin-top: 90px;
+}
+.social-media{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 40px;
+    margin-left: 40px;
+    
+}
+.social-media img{
+    width: 70px;
+    height: 70px;
+}
