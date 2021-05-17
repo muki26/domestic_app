@@ -1,0 +1,28 @@
+.logo img{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    text-align: center;
+   
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin: 50px 170px;
+}
+h3{
+color: darkblue;
+}
+h1{
+    text-align: center;
+    color: crimson;
+}
+.text-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#rs{
+    color: darkblue;
+}
